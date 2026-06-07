@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PersonalWellnessApp</string>
+    
+    <string-array name="emoji_list">
+        <item>😊</item>
+        <item>😢</item>
+        <item>😡</item>
+        <item>😴</item>
+        <item>😍</item>
+        <item>😐</item>
+        <item>🤩</item>
+        <item>😰</item>
+    </string-array>
+</resources>

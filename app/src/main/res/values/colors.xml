@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Wellness Theme Colors -->
+    <color name="ice_blue_primary">#81C784</color> <!-- Calm green -->
+    <color name="ice_blue_light">#C8E6C9</color> <!-- Light mint -->
+    <color name="ice_blue_dark">#388E3C</color> <!-- Deep forest green -->
+    <color name="ice_blue_accent">#A5D6A7</color> <!-- Soft leafy accent -->
+
+    <!-- Background Colors -->
+    <color name="dark_background">#F1F8E9</color> <!-- Gentle off-white green tint -->
+    <color name="dark_surface">#E8F5E9</color> <!-- Light natural surface -->
+    <color name="dark_card">#FFFFFF</color> <!-- Clean white cards -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2E7D32</color> <!-- Natural deep green text -->
+    <color name="text_secondary">#558B2F</color> <!-- Softer secondary green -->
+    <color name="text_disabled">#A5A5A5</color> <!-- Muted grey for disabled text -->
+
+    <!-- Status Colors -->
+    <color name="success">#66BB6A</color> <!-- Healthy success green -->
+    <color name="warning">#FFB74D</color> <!-- Warm amber warning -->
+    <color name="error">#E57373</color> <!-- Gentle red for errors -->
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#A8E6CF</color> <!-- Soft mint -->
+    <color name="gradient_end">#DCEDC8</color> <!-- Pale green -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

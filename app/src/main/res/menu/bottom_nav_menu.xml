@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+    <item
+        android:id="@+id/navigation_habits"
+        android:title="Habits"
+        android:icon="@drawable/ic_habit"/>
+    <item
+        android:id="@+id/navigation_mood"
+        android:title="Mood"
+        android:icon="@drawable/ic_mood"/>
+    <item
+        android:id="@+id/navigation_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+</menu>
